@@ -7,6 +7,16 @@
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
+## Tasks
+* git clone url
+* open repository folder and create fork
+* Add name to ipynb notebook
+* Active virtual envi using in terminal (python -m venv .env)
+* Install prereqs and print pip list
+* Create code and execute for questions
+* Conver ipynb to html using jupyter nbconvert --to html name.ipynb
+
+
 ## Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
