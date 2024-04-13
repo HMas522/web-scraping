@@ -1,5 +1,9 @@
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
+### Student Name: Hayley Massey
+
+### https://github.com/HMas522/json-sentiment
+
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
