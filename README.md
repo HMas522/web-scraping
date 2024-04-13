@@ -2,7 +2,7 @@
 
 ### Student Name: Hayley Massey
 
-### https://github.com/HMas522/json-sentiment
+### https://github.com/HMas522/web-scraping
 
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
